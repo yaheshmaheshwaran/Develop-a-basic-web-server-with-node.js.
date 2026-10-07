@@ -1,0 +1,13 @@
+{
+  "name": "project3-node-server",
+  "version": "1.0.0",
+  "description": "A basic web server built with Node.js (no frameworks — pure http module)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["node", "http", "server"],
+  "author": "",
+  "license": "MIT"
+}
